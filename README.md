@@ -1,6 +1,6 @@
 # Is Triangle
 
-We gave the code to find out wheter any triple of positive real numbers represents a triangle or not. 
+We gave the code to find out whether any triple of positive real numbers represents a triangle or not. 
 
 ## Project Description
 
